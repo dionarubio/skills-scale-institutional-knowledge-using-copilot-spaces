@@ -12,6 +12,7 @@ Maintain a simple table with:
 - Owner
 - Mitigation plan
 - Status
+- Use the [Risk Register Template](./octoacme-risk-register-template.md) for consistent tracking.
 
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
@@ -26,10 +27,7 @@ Maintain a simple table with:
 
 ## Communication Templates
 Weekly Status Template:
-- Progress this week:
-- Next steps:
-- Risks & blockers:
-- Ask / decisions needed:
+- Use [Weekly Status Template](./octoacme-weekly-status-template.md)
 
 Incident Communication
 - Triage summary

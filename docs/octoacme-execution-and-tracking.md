@@ -27,6 +27,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+- Publish weekly updates with the [Weekly Status Template](./octoacme-weekly-status-template.md)
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
@@ -38,3 +39,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] [Definition of Done Checklist](./octoacme-definition-of-done-checklist.md) applied before marking work done

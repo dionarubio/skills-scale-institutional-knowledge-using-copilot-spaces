@@ -34,6 +34,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Use the [Risk Register Template](./octoacme-risk-register-template.md) and [Definition of Done Checklist](./octoacme-definition-of-done-checklist.md) to standardize planning artifacts.
 
 ## Planning Checklist
 - [ ] Project kickoff held
