@@ -24,8 +24,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
+- [Acceptance Criteria & Definition of Done Checklist](./octoacme-definition-of-done-checklist.md)
+- [Risk Register](./octoacme-risk-register-template.md)
+- [Weekly Status Update](./octoacme-weekly-status-template.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
