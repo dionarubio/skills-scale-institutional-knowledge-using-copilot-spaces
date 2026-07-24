@@ -2,7 +2,7 @@
 
 In this step you will:
 
-- Explore the process docs in the docs/ folder (e.g., project-lifecycle.md, roles-responsibilities.md, communication-plan.md)
+- Explore the process docs in the docs/ folder (e.g., octoacme-project-planning.md, octoacme-roles-and-personas.md, octoacme-risks-and-communication.md)
 - Generate a 3–4 paragraph summary in your Copilot Space (workflows, roles, communication, quality)
 - Use that summary to create/attach the existing issue about the README
 - Create a pull request adding a README that links all process docs and includes the brief overview
